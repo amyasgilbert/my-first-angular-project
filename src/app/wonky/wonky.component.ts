@@ -5,4 +5,10 @@ import { Component } from "@angular/core";
     templateUrl: './wonky.component.html'
 })
 export class WonkyComponent {
+    wonkState = '~~~super wonky~~~';
+    wonkTime = 1;
+
+    getWonkState () {
+        return this.wonkState;
+    }
 }

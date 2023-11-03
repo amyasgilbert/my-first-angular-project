@@ -7,4 +7,20 @@ import { Component } from '@angular/core';
 })
 export class MultiWonkComponent {
 
+  allowNewWonk = false;
+  wonkCreationStatus = 'Not wonky yet'
+
+  constructor() {
+    setTimeout(() => {
+      this.allowNewWonk = true;
+    },2000)
+  }
+
+  ngOnInit() {
+  }
+
+  onCreateWonk() {
+    this.wonkCreationStatus = 'Wonky!!'
+  }
+
 }

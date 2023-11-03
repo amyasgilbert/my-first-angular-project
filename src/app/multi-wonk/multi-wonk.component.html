@@ -1,4 +1,8 @@
-<!--<app-wonky></app-wonky>-->
-<!--<app-wonky></app-wonky>-->
-<!--<app-wonky></app-wonky>-->
-<!--<app-wonky></app-wonky>-->
+<button class="btn btn-primary"
+        [disabled]="!allowNewWonk"
+        (click)="onCreateWonk()">Add Wonk
+</button>
+<!--<p [innerText]="allowNewWonk"></p>-->
+<p>{{ wonkCreationStatus }}</p>
+<app-wonky></app-wonky>
+<app-wonky></app-wonky>
