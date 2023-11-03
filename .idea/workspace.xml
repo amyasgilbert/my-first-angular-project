@@ -4,10 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="">
+    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="created a component by hand. it's a bit wonky">
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/0.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/1.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/1.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/2.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/2.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/3.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/4.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/5.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/5.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/6.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/6.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/7.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/7.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/wonky/wonky.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/wonky/wonky.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/wonky/wonky.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/wonky/wonky.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +31,42 @@
     <execution />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/navbar" />
+                    <option name="lastUsedInstant" value="1699020460" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/wonky-component" />
+                    <option name="lastUsedInstant" value="1699014067" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1699014044" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,14 +88,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/navbar",
     "last_opened_file_path": "/Users/amyas.gilbert/Projects/my-first-angular-project",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.idesettings.emmet.xml",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors",
     "ts.external.directory.path": "/Users/amyas.gilbert/Projects/my-first-angular-project/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -77,12 +124,33 @@
       <option name="presentableId" value="Default" />
       <updated>1698418972822</updated>
       <workItem from="1698418973917" duration="1353000" />
-      <workItem from="1699000657726" duration="3285000" />
+      <workItem from="1699000657726" duration="7128000" />
     </task>
+    <task id="LOCAL-00001" summary="created a component by hand. it's a bit wonky">
+      <option name="closed" value="true" />
+      <created>1699014109673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699014109673</updated>
+    </task>
+    <task id="LOCAL-00002" summary="created a component by hand. it's a bit wonky">
+      <option name="closed" value="true" />
+      <created>1699014131541</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699014131541</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="created a component by hand. it's a bit wonky" />
+    <option name="LAST_COMMIT_MESSAGE" value="created a component by hand. it's a bit wonky" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
