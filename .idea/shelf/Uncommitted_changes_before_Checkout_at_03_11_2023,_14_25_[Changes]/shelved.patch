@@ -1,0 +1,40 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"8cd3208f-a17c-43f1-9005-1ee146ab2d6a\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/src/app/app.component.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/app.component.html\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/app/app.component.ts\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/app.component.ts\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/app/app.module.ts\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/app/app.module.ts\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"ComposerSettings\">\n    <execution />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n    <option name=\"ROOT_SYNC\" value=\"SYNC\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"PhpWorkspaceProjectConfiguration\" interpreter_name=\"/usr/local/Cellar/php/8.2.7_1/bin/php\" />\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2XLqzl4MNRfpLb5NIhQtviKwEPX\" />\n  <component name=\"ProjectLevelVcsManager\">\n    <ConfirmationsSetting value=\"1\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"git-widget-placeholder\": \"main\",\n    \"last_opened_file_path\": \"/Users/amyas.gilbert/Projects/my-first-angular-project\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"nodejs_package_manager_path\": \"npm\",\n    \"settings.editor.selected.configurable\": \"reference.idesettings.emmet.xml\",\n    \"ts.external.directory.path\": \"/Users/amyas.gilbert/Projects/my-first-angular-project/node_modules/typescript/lib\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"npm.Angular CLI Server\">\n    <configuration name=\"Angular Application\" type=\"JavascriptDebugType\" uri=\"http://localhost:4200\">\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Angular CLI Server\" type=\"js.build_tools.npm\">\n      <package-json value=\"$PROJECT_DIR$/package.json\" />\n      <command value=\"run\" />\n      <scripts>\n        <script value=\"start\" />\n      </scripts>\n      <node-interpreter value=\"project\" />\n      <envs />\n      <method v=\"2\" />\n    </configuration>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"8cd3208f-a17c-43f1-9005-1ee146ab2d6a\" name=\"Changes\" comment=\"\" />\n      <created>1698418972822</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1698418972822</updated>\n      <workItem from=\"1698418973917\" duration=\"1353000\" />\n      <workItem from=\"1699000657726\" duration=\"3285000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,11 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.ts" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+-    </list>
++    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -21,6 +17,9 @@
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="ROOT_SYNC" value="SYNC" />
+   </component>
++  <component name="GitToolBoxStore">
++    <option name="projectConfigVersion" value="5" />
++  </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+   </component>
+@@ -41,7 +40,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "git-widget-placeholder": "main",
++    "git-widget-placeholder": "feature/wonky-component",
+     "last_opened_file_path": "/Users/amyas.gilbert/Projects/my-first-angular-project",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
