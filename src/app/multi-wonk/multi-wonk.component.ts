@@ -8,7 +8,8 @@ import { Component } from '@angular/core';
 export class MultiWonkComponent {
 
   allowNewWonk = false;
-  wonkCreationStatus = 'Not wonky yet'
+  wonkCreationStatus = 'Not wonky yet';
+  wonkbotName = '';
 
   constructor() {
     setTimeout(() => {
@@ -21,6 +22,10 @@ export class MultiWonkComponent {
 
   onCreateWonk() {
     this.wonkCreationStatus = 'Wonky!!'
+  }
+
+  onUpdateWonkbotName(event : any) {
+    this.wonkbotName = (<HTMLInputElement>event.target).value;
   }
 
 }
