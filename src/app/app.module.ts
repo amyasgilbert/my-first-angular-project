@@ -8,6 +8,7 @@ import {MultiWonkComponent} from './multi-wonk/multi-wonk.component';
 import {NavbarComponent} from './navbar/navbar.component';
 import { FavouriteChazzaComponent } from './favourite-chazza/favourite-chazza.component';
 import { UsernameComponent } from './username/username.component';
+import { DisplayDetailsComponent } from './display-details/display-details.component';
 
 @NgModule({
     declarations: [
@@ -16,7 +17,8 @@ import { UsernameComponent } from './username/username.component';
         MultiWonkComponent,
         NavbarComponent,
         FavouriteChazzaComponent,
-        UsernameComponent
+        UsernameComponent,
+        DisplayDetailsComponent
     ],
     imports: [
         BrowserModule,
