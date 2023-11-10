@@ -1,0 +1,21 @@
+<h3>Pick a username why don't you...</h3>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12">
+      <ol>
+        <li>Add input field which updates 'username' via two-way-binding</li>
+        <li>Output username via string interpolation (in a p below input)</li>
+        <li>Add button which is only clickable if username is not an empty string</li>
+        <li>on clicking button, username resets to empty string</li>
+      </ol>
+      <hr>
+      <label>Username</label>
+      <input type="text" class="form-control" [(ngModel)]="username">
+      <p>{{ username }}</p>
+      <button class="btn btn-primary"
+              [disabled]="username === ''"
+              (click)="username = ''">Reset User
+      </button>
+    </div>
+  </div>
+</div>
