@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="blaaaaaaa">
-      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/0.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/0.pack" afterDir="false" />
+    <list default="true" id="8cd3208f-a17c-43f1-9005-1ee146ab2d6a" name="Changes" comment="data binding">
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/10.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/10.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/11.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/11.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/3.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/3.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/4.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/4.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/8.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/8.pack" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/9.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/9.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack.old" beforeDir="false" afterPath="$PROJECT_DIR$/.angular/cache/16.2.8/angular-webpack/d9bfb4fc5304a73b7e92ec7d9cf3644e4e010203/index.pack.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/multi-wonk/multi-wonk.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/multi-wonk/multi-wonk.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -148,7 +152,71 @@
       <option name="project" value="LOCAL" />
       <updated>1699023095321</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="removed excess wonk">
+      <option name="closed" value="true" />
+      <created>1699611532422</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611532422</updated>
+    </task>
+    <task id="LOCAL-00006" summary="why are these cache files not being ignored?">
+      <option name="closed" value="true" />
+      <created>1699611571918</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611571918</updated>
+    </task>
+    <task id="LOCAL-00007" summary="why are these cache files not being ignored?">
+      <option name="closed" value="true" />
+      <created>1699611589185</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611589185</updated>
+    </task>
+    <task id="LOCAL-00008" summary="why are these cache files not being ignored?">
+      <option name="closed" value="true" />
+      <created>1699611591402</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611591402</updated>
+    </task>
+    <task id="LOCAL-00009" summary="why are these cache files not being ignored?">
+      <option name="closed" value="true" />
+      <created>1699611598171</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611598171</updated>
+    </task>
+    <task id="LOCAL-00010" summary="why are these cache files not being ignored?">
+      <option name="closed" value="true" />
+      <created>1699611599287</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699611599287</updated>
+    </task>
+    <task id="LOCAL-00011" summary="data binding">
+      <option name="closed" value="true" />
+      <created>1699612838799</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1699612838799</updated>
+    </task>
+    <task id="LOCAL-00012" summary="data binding">
+      <option name="closed" value="true" />
+      <created>1699612896283</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1699612896283</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +225,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created a component by hand. it's a bit wonky" />
     <MESSAGE value="whatever" />
-    <option name="LAST_COMMIT_MESSAGE" value="whatever" />
+    <MESSAGE value="removed excess wonk" />
+    <MESSAGE value="why are these cache files not being ignored?" />
+    <MESSAGE value="data binding" />
+    <option name="LAST_COMMIT_MESSAGE" value="data binding" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
