@@ -1,0 +1,14 @@
+<h3>Pick your fave chaz:</h3>
+<form>
+  <input type="radio" value="Salvation Army!!" id="salvation-army" name="favouriteChazza" [(ngModel)]="favouriteChazza">
+  <label for="salvation-army">Salvation Army</label>
+  <input type="radio" value="British Red Cross!!" id="british-red-cross" name="favouriteChazza" [(ngModel)]="favouriteChazza">
+  <label for="british-red-cross">British Red Cross</label>
+  <input type="radio" value="St Peters Hospice!!" id="st-peters-hospice" name="favouriteChazza" [(ngModel)]="favouriteChazza">
+  <label for="st-peters-hospice">St Peter's Hospice</label>
+  <input type="radio" value="Cats Protection!!" id="cats-protection" name="favouriteChazza" [(ngModel)]="favouriteChazza">
+  <label for="cats-protection">Cats Protection</label>
+</form>
+
+
+<span>Your favourite chazziboy iiiis: <strong>{{favouriteChazza}}</strong></span>

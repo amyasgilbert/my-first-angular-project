@@ -21,7 +21,7 @@ export class MultiWonkComponent {
   }
 
   onCreateWonk() {
-    this.wonkCreationStatus = 'Wonky!!'
+    this.wonkCreationStatus = 'We have wonk! Find your wonk at ' + this.wonkbotName;
   }
 
   onUpdateWonkbotName(event : any) {

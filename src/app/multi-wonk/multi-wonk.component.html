@@ -1,9 +1,21 @@
 <label>Wonkbot name</label>
-<input type="text" class="form-control" (input)="onUpdateWonkbotName($event)">
+
+<!--<input type="text"
+class="form-control"
+(input)="onUpdateWonkbotName($event)">-->
+
+<input type="text"
+       class="form-control"
+       [(ngModel)]="wonkbotName"> <!-- triggers on the input event and updates value of wonkbotName in component automatically
+                                  also updates value of input element automatically (two-way) -->
+
 <p>{{ wonkbotName }}</p>
+
 <button class="btn btn-primary"
         [disabled]="!allowNewWonk"
         (click)="onCreateWonk()">Add Wonk
 </button>
+
 <!--<p [innerText]="allowNewWonk"></p>-->
+
 <p>{{ wonkCreationStatus }}</p>

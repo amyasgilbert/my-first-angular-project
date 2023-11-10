@@ -6,13 +6,15 @@ import {AppComponent} from './app.component';
 import {WonkyComponent} from "./wonky/wonky.component";
 import {MultiWonkComponent} from './multi-wonk/multi-wonk.component';
 import {NavbarComponent} from './navbar/navbar.component';
+import { FavouriteChazzaComponent } from './favourite-chazza/favourite-chazza.component';
 
 @NgModule({
     declarations: [
         AppComponent,
         WonkyComponent,
         MultiWonkComponent,
-        NavbarComponent
+        NavbarComponent,
+        FavouriteChazzaComponent
     ],
     imports: [
         BrowserModule,
